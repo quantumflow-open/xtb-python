@@ -1,3 +1,3 @@
 [submodule "subprojects/xtb"]
 	path = subprojects/xtb
-	url = https://github.com/grimme-lab/xtb.git
+	url = https://github.com/quantumflow-open/xtb.git
